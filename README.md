@@ -1,6 +1,7 @@
 # nitemswapping
 The project is about " N item Swapping" which means , anyone can use the portal and do swapping of items. This is a course based project and currently in progress. 
 
+
 #Please follow the below steps to make it work in your local machine
 
 Step 1 : Install command line mongo database and try to run it using below similar commands.
