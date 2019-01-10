@@ -4,6 +4,7 @@ The project is about " N item Swapping" which means , anyone can use the portal 
 #Please follow the below steps to make it work in your local machine
 
 Step 1 : Install command line mongo database and try to run it using below similar commands.
+https://docs.mongodb.com/manual/installation/
 Once you have installed the mongo database, please try to run using below similar commands.
 
 Terminal 1 : mongod --dbpath "c:\UNCC\NBAD\mongodb\data\db"
